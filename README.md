@@ -1,4 +1,4 @@
-# bolg
+# blog
 
 this is a blog to record 
 1. problem (unsolved and solved) 

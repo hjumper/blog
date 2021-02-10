@@ -19,4 +19,6 @@ so i recovered it agian.
 5. First book(kinetic) + ROS Wiki, Second youtube ROS (noetic)
 
 6. find an interesting programm for slam in darmstadt. MARK
- 
+
+7. tom should know how to set git push without always entering remote and passport
+

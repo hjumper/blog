@@ -1,0 +1,22 @@
+Summary:
+1. ros cookbook Page 20 - 46
+roscore rosnode rostopic rosmsg rosservice rosparam rosrun
+learned the basic contruction of ros archieve, Data structure, function, philosopie and followed an instance P46 and met a question :
+rostopic error: rate must be a number
+NOT SOLVED
+ 
+but need review strongly.
+
+2. for ros kinetic navagation package is not automatic installed (i dont know why),
+so we should type :
+sudo apt-get install ros-kinetic-navigation
+
+3. it is so annoying to use 'close minimize and maximize Tab' at left so i googled it and found a unsatisfied solution with using gnome desktop(even worse),
+so i recovered it agian.
+
+4. i plan to finish my task after bath and send email to my tutor.
+
+5. First book(kinetic) + ROS Wiki, Second youtube ROS (noetic)
+
+6. find an interesting programm for slam in darmstadt. MARK
+ 

@@ -1,0 +1,28 @@
+I have learned the tutorial for ROS from 1 to 6,
+and tom i will learn chapter 7,8,9,10, and problem came:
+1.python2 syntax wrong
+reason: version 
+error: Python Pip broken with sys.stderr.write(f“ERROR: {exc}”)
+
+method :
+https://stackoverflow.com/questions/65896334/python-pip-broken-with-sys-stderr-writeferror-exc
+
+sudo apt-get remove --purge python-pip
+sudo apt-get autoremove
+sudo rm -f /usr/local/bin/pip
+sudo easy_install pip==20.3.4
+pip --version
+
+2. in chapter 5 false using rqt_plot
+error: numpy.linalg.linalg.linalgerror: singular matrix
+reason: no or unsuitable matplotlib
+https://answers.ros.org/question/346880/rqt_plot-did-not-work/
+method: terminal: python -m pip install -U matplotlib
+
+3. i will finish ros lesson 1 on youtube
+4. i will reread the seminararbeit
+5. i will read python and linux base videos
+6. i will watch a tet2 video
+________________________________________
+GOOD LUCK!
+

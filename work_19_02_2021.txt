@@ -19,10 +19,17 @@ reason: no or unsuitable matplotlib
 https://answers.ros.org/question/346880/rqt_plot-did-not-work/
 method: terminal: python -m pip install -U matplotlib
 
-3. i will finish ros lesson 1 on youtube
-4. i will reread the seminararbeit
-5. i will read python and linux base videos
-6. i will watch a tet2 video
+3. solove open multi terminal tabs :
+properties--windos->tab--shortcut win/tab->ctrl+alt-N
+open new window : -N
+open new tab : -t
+sweich tabs : alt +num
+
+task
+i will finish ros lesson 1 on youtube: watch it tom
+i will reread the seminararbeit
+i will read python and linux base videos
+i will watch a tet2 video
 ________________________________________
 GOOD LUCK!
 
